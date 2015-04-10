@@ -5,3 +5,4 @@ C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem1
 C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem1\Problem1Test\obj\Debug\Problem1Test.csprojResolveAssemblyReference.cache
 C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem1\Problem1Test\obj\Debug\Problem1Test.dll
 C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem1\Problem1Test\obj\Debug\Problem1Test.pdb
+C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem1\Problem1Test\bin\Debug\App.config

@@ -1,1 +1,2 @@
+Problem#1 Find the sum of all the multples of 3 or 5 below 1000
 Problem#2 Write a function that fills an array of size N with the numbers from 1 to N in random order without duplicates

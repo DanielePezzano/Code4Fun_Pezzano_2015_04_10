@@ -1,0 +1,8 @@
+C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem2\Problem2Test\obj\Debug\Problem2Test.csprojResolveAssemblyReference.cache
+C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem2\Problem2Test\bin\Debug\Problem2Test.dll
+C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem2\Problem2Test\bin\Debug\Problem2Test.pdb
+C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem2\Problem2Test\bin\Debug\Problem2.exe
+C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem2\Problem2Test\bin\Debug\Problem2.pdb
+C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem2\Problem2Test\obj\Debug\Problem2Test.dll
+C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem2\Problem2Test\obj\Debug\Problem2Test.pdb
+C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem2\Problem2Test\bin\Debug\App.config

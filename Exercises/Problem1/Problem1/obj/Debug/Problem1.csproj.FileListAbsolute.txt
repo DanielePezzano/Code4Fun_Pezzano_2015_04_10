@@ -3,3 +3,4 @@ C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem1
 C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem1\Problem1\bin\Debug\Problem1.pdb
 C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem1\Problem1\obj\Debug\Problem1.exe
 C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem1\Problem1\obj\Debug\Problem1.pdb
+C:\Users\Daniele\Documents\GitHub\Code4Fun_Pezzano_2015_04_10\Exercises\Problem1\Problem1\bin\Debug\App.config
